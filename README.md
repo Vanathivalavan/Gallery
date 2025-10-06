@@ -1,4 +1,4 @@
-# Ex.08 Design of Interactive Image Gallery
+<img width="1912" height="901" alt="Screenshot 2025-10-06 071000" src="https://github.com/user-attachments/assets/6b00f42d-d49b-487d-a20b-fae26f6efcc7" /># Ex.08 Design of Interactive Image Gallery
 # Date:06.10.2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -174,8 +174,11 @@ home.html
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-10-06 070946.png>)
-![alt text](<Screenshot 2025-10-06 071000.png>)
+<img width="1912" height="901" alt="Screenshot 2025-10-06 071000" src="https://github.com/user-attachments/assets/00cfd1a8-bfde-4e41-95cd-a603ba4b62af" />
+
+<img width="1919" height="905" alt="Screenshot 2025-10-06 070946" src="https://github.com/user-attachments/assets/6138cfa0-13b4-4e1b-9f2b-d886c10efe02" />
+
+
 
 
 # RESULT:
